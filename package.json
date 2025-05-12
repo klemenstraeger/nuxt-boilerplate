@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@pinia/nuxt": "^0.11.0",
-    "@tailwindcss/vite": "^4.1.5",
+    "@tailwindcss/vite": "^4.1.6",
     "consola": "^3.4.2",
     "nuxt": "^3.17.2",
     "nuxt-security": "2.2.0",
