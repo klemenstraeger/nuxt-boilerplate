@@ -27,7 +27,7 @@
     "@antfu/eslint-config": "^4.14.1",
     "@nuxt/eslint": "1.4.1",
     "@nuxt/test-utils": "3.19.1",
-    "oxlint": "^0.17.0",
+    "oxlint": "^1.0.0",
     "typescript": "^5.8.3",
     "vue-mess-detector": "^0.67.0"
   }
