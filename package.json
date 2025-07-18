@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^4.16.2",
-    "@nuxt/eslint": "1.5.2",
+    "@nuxt/eslint": "1.6.0",
     "@nuxt/test-utils": "3.19.2",
     "oxlint": "^1.6.0",
     "typescript": "^5.8.3",
